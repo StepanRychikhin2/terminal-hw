@@ -1,0 +1,15 @@
+{
+  "name": "my-proect",
+  "version": "1.0.0",
+  "description": "Мій проект крутий",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Stepan",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "validator": "^13.11.0"
+  }
+}
